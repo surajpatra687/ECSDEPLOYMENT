@@ -1,0 +1,7 @@
+version: '3.4'
+services:
+  web:
+    image: public.ecr.aws/w0f5g4k6/javaweb
+    ports:
+      - 8080
+  
